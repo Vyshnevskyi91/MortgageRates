@@ -1,4 +1,4 @@
-# MortgageRates from RATEHUB
+# MortgageVariableRates from RATEHUB
 | Rate   | Provider                          | Payment  |
 |--------|-----------------------------------|----------|
 | 4.70%  | Canadian Lender                   | $2,231   |
