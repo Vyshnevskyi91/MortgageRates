@@ -1,5 +1,5 @@
 # MortgageVariableRates from RATEHUB
-| Year | Min Rate     | Provider               |
+| Term | Min Rate     | Provider               |
 |------|--------------|------------------------|
 | Variable rate 3y | 5.05%         | Canadian Lender        |
 | Variable rate 5y | 4.70%         | Canadian Lender        |
